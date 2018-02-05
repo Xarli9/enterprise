@@ -1,0 +1,10 @@
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/model/Student.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/NewSessionBean.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/service/Calculator.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/service/ICalculator.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/dao/IDao.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/dao/MySqlDao.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/service/CalculatorBean.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/service/IStudentBeanLocal.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/service/StudentBean.java
+/Users/Carles/Desktop/Curs Java/EnterpriseApp/EnterpriseApp-ejb/src/main/java/com/bonarea/dao/StudentDao.java
